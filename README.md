@@ -1,4 +1,4 @@
-# NotasApp
+# TaskApp-FullStackApp
 
 NotasApp es una aplicación fullstack para guardar notas, creada para aprender los conceptos básicos de React y Django Rest Framework. La aplicación permite a los usuarios crear, leer, actualizar y eliminar notas. El frontend está desarrollado en React y el backend utiliza Django con Django Rest Framework para construir una API que interconecta la base de datos.
 
